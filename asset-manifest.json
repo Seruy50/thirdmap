@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/thirdmap/static/css/main.67ccb965.css",
-    "main.js": "/thirdmap/static/js/main.9a27bdcc.js",
+    "main.js": "/thirdmap/static/js/main.05abef36.js",
     "static/js/787.5a700396.chunk.js": "/thirdmap/static/js/787.5a700396.chunk.js",
     "static/media/38.wav": "/thirdmap/static/media/38.9e19bd2dfcaee0e326d7.wav",
     "static/media/199.wav": "/thirdmap/static/media/199.f3fed7150afbb9df0342.wav",
@@ -18,6 +18,7 @@
     "static/media/98.wav": "/thirdmap/static/media/98.b9c038a8ed75952b5b45.wav",
     "static/media/112.wav": "/thirdmap/static/media/112.fda1a6c75381c93534d7.wav",
     "static/media/83.wav": "/thirdmap/static/media/83.19f86c92f7899a9fe800.wav",
+    "static/media/map.jpg": "/thirdmap/static/media/map.c79449d38e69c290d4cf.jpg",
     "static/media/8.wav": "/thirdmap/static/media/8.a14da3a4bd5985858c33.wav",
     "static/media/162.wav": "/thirdmap/static/media/162.79aefe1bb13947030e05.wav",
     "static/media/44.wav": "/thirdmap/static/media/44.04dce163eb75904b9183.wav",
@@ -37,7 +38,6 @@
     "static/media/124.wav": "/thirdmap/static/media/124.f5766e250b5d162396a7.wav",
     "static/media/143.wav": "/thirdmap/static/media/143.e693ab70e532d9cdd458.wav",
     "static/media/161.wav": "/thirdmap/static/media/161.f71b560ea6fb5bde31b7.wav",
-    "static/media/map.gif": "/thirdmap/static/media/map.79dfdb215d8b6069fade.gif",
     "static/media/123.wav": "/thirdmap/static/media/123.35ccb13f3266e0db6267.wav",
     "static/media/163.wav": "/thirdmap/static/media/163.92cebe104cae75dc8eba.wav",
     "static/media/176.wav": "/thirdmap/static/media/176.651a461fb13392bcd3f3.wav",
@@ -60,16 +60,18 @@
     "static/media/73.wav": "/thirdmap/static/media/73.a9ebd700c55b9bf45d62.wav",
     "static/media/220.wav": "/thirdmap/static/media/220.d89d6730d8ec898be75c.wav",
     "static/media/18.wav": "/thirdmap/static/media/18.81d2f8caeaefb77433a9.wav",
+    "static/media/99.wav": "/thirdmap/static/media/99.e88ca4bd684d7ac6fee1.wav",
     "static/media/196.wav": "/thirdmap/static/media/196.ab0df41b993e1aded663.wav",
     "static/media/232.wav": "/thirdmap/static/media/232.3efa26ff17065a779d91.wav",
+    "static/media/legend.jpg": "/thirdmap/static/media/legend.cef46b75e6f47a1be4ab.jpg",
     "static/media/144.wav": "/thirdmap/static/media/144.26f2f76c438c212dbf37.wav",
     "index.html": "/thirdmap/index.html",
     "main.67ccb965.css.map": "/thirdmap/static/css/main.67ccb965.css.map",
-    "main.9a27bdcc.js.map": "/thirdmap/static/js/main.9a27bdcc.js.map",
+    "main.05abef36.js.map": "/thirdmap/static/js/main.05abef36.js.map",
     "787.5a700396.chunk.js.map": "/thirdmap/static/js/787.5a700396.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67ccb965.css",
-    "static/js/main.9a27bdcc.js"
+    "static/js/main.05abef36.js"
   ]
 }
