@@ -3,7 +3,7 @@ import ReactAudioPlayer from "react-audio-player";
 import { VillagesPoints } from "./villagespoints";
 import { villages } from "./villages";
 import "./App.css";
-import legend from './legend.gif'
+import legend from './legend.jpg'
 
 export default function App() {
   const [currentId, setCurrentId] = useState(1);
